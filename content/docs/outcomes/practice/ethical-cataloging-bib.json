@@ -50,6 +50,13 @@
   {
     "URL": "https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc863047-6c5d-4751-a201-adc30026842d",
     "abstract": "A film by Sawyer Broadley, Jill Baron, Óscar Rubén Cornejo Cásares and Melissa Padilla.",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
     "accessed": {
       "date-parts": [
         [
@@ -59,6 +66,24 @@
         ]
       ]
     },
+    "author": [
+      {
+        "family": "Broadley",
+        "given": "Sawyer"
+      },
+      {
+        "family": "Baron",
+        "given": "Jill"
+      },
+      {
+        "family": "Cornejo Cásares",
+        "given": "Óscar Rubén"
+      },
+      {
+        "family": "Padilla",
+        "given": "Melissa"
+      }
+    ],
     "id": "ChangeSubjecta",
     "language": "en-US",
     "title": "Change The Subject",
