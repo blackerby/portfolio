@@ -3,7 +3,7 @@ title: "LS 506: Ethical Cataloging Discussion Questions"
 bibFile: content/docs/outcomes/practice/ethical-cataloging-bib.json
 ---
 
-{{< hugo-cite >}}
+# LS 506: Ethical Cataloging Discussion Questions
 
 ## Describe ethical concerns that occur in cataloging work.
 
@@ -39,7 +39,7 @@ offensive to people is through misrepresentation.
 \`\`Misrepresentation,\'\' according to Smiraglia (2009), \`\`or biased
 representation, occurs when a resource is described in terms that are
 not consistent with the uses it might engender in a particular
-milieu\'\' [@smiragliaBibliocentrismCulturalWarrant2009, p. 675].
+milieu\'\' {{< cite "smiragliaBibliocentrismCulturalWarrant2009" 675 >}}.
 _Change the Subject_ provides a powerful, concrete example of this.
 
 Melissa Padilla, a Dartmouth undergraduate at the time, encountered the
@@ -67,21 +67,21 @@ more people than just Dartmouth undergraduates were being affected.
 Billey, Drabinkski, and Roberto (2014) argue against the notion that the
 gender marker in RDA 9.7 is \`\`an objective description of reality\'\'
 and is in fact \`\`passively harmful to transgender individuals\'\'
-[@billeyWhatGenderGot2014, p. 414]. RDA, in their analysis, does this by
+{{< cite "billeyWhatGenderGot2014" 414 >}}. RDA, in their analysis, does this by
 denying the existence of genders that fall outside the male-female
 binary. In other words, library users who identify outside the gender
 binary will not see themselves reflected in the catalog.
 
 The same authors note that catalogers, in the quest to provide complete
 records, have the leeway \`\`to codify erroneous information\'\'
-[@billeyWhatGenderGot2014, p. 418]. They give the example of New Orleans
+{{< cite "billeyWhatGenderGot2014" 418 >}}. They give the example of New Orleans
 bounce artist Big Freedia, who, according to a 2011 interview,
 \`\`fluidly use\[s\] masculine and feminine pronouns\'\' but identifies
-as a gay man [@billeyWhatGenderGot2014, p. 418]. But the cataloger who
+as a gay man {{< cite "billeyWhatGenderGot2014" 418 >}}. But the cataloger who
 created the authority record for Big Freedia made an erroneous
 assumption about the artist\'s gender: \`\`The authority record for the
 gender-bending hip-hop artist, Big Freedia records his gender as
-\`female\'\'\' [@billeyWhatGenderGot2014, p. 418].
+\`female\'\'\' {{< cite "billeyWhatGenderGot2014" 418 >}}.
 
 Returning to the discussion of the offensive former LCSH term for
 undocumented immigrants, in the film _Change the Subject_, Dartmouth
@@ -94,7 +94,7 @@ to the Dartmouth student group CoFIRED, succinctly states exactly why
 the former subject heading is so offensive: \`\`It\'s wielded most
 specifically towards migrants of color and there\'s a racist coding to
 it and by virtue of its power it becomes part of the ways in which
-anti-immigrant sentiment festers\'\' (Broadley et al., 2019, 11:29).
+anti-immigrant sentiment festers\'\' {{< cite "ChangeSubjecta" "11:29" >}}.
 
 ## Given that cataloging systems are biased, how then do we organize and describe information ethically?
 
@@ -109,7 +109,7 @@ question standards, which Snow and Shoemaker (2020) define as \`\`not
 strictly following standards such as RDA, LCSH, but modifying them at
 the local level or attempting to change the standard to better serve
 users and/or be more respectful of others; recognizing that standards
-are biased\'\' [@snowDefiningCatalogingEthics2020, p. 538].
+are biased\'\' {{< cite "SnowDefiningCatalogingEthics2020" 538 >}}.
 
 The same authors argue for working from shared values in the field of
 cataloging; they enumerate five such values synthesized from responses
@@ -129,22 +129,5 @@ catalog from causing harm.
 
 ## References
 
-Snow, K., & Shoemaker B. (2020). Defining cataloging ethics:
-practitioner perspectives. Cataloging & Classification Quarterly, 58(6),
-533-546. <https://doi.org/10.1080/01639374.2020.1795767>
-
-Smiraglia, R. P. (2009). Bibliocentrism, cultural warrant, and the
-ethics of resource description: A case study, Cataloging &
-Classification Quarterly, 47(7), 671-686.
-<https://doi.org/10.1080/01639370903112013>
-
-Billey, A., Drabinski, E., & Roberto, K. R. (2014). What\'s gender got
-to do with it? A critique of RDA 9.7. Cataloging & Classification
-Quarterly, 52(4), 412-421.
-<https://doi.org/10.1080/01639374.2014.882465>
-
-Broadley, S., Baron, J., Cornejo Cásares, Ó.S., and Padilla, M. (2019).
-Change the subject \[Video\]. Dartmouth Digital Collections.
-<https://n2t.net/ark:/83024/d4hq3s42r>
-
-{{< bibliography >}}
+{{< bibliography cited >}}
+{{< hugo-cite >}}
