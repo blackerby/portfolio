@@ -4,6 +4,10 @@ title: "Visualizing Topics of 74th Congress Senate Bills and Joint Resolutions"
 
 # Visualizing Topics of 74th Congress Senate Bills and Joint Resolutions
 
+This code is available to experiment with on Binder in a notebook with the filename `tmr.ipynb`. Be sure to check out the `ner_mapping.ipynb` notebook as well, in which I create a heatmap of states mentioned in Senate bills and joint resolutions during the 74th Congress.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/blackerby/ls562project/b4ddf1c5a51b7d206f8933afb90210ab3ceb19a0)
+
 In LS 562: Digital Libraries, we studied the application of machine learning tools to text analysis problems. For practice, I decided to apply one of those tools, topic modeling, to the corpus of 74th Congress Senate bills and join resolutions I processed during my remote metadata internship with the Law Library of Congress.
 
 ## Setting Up
