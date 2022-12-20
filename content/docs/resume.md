@@ -3,22 +3,23 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+
 # William T. Blackerby
 
 332 Willow Bend Road  
 Birmingham, AL 35209  
 205-240-3705
 
-<a href="mailto:wmblackerby@gmail.com">wmblackerby@gmail.com</a> &bull; <a href="https://www.linkedin.com/in/william-blackerby-54b54a5a/">LinkedIn</a> &bull; <a href="https://github.com/blackerby">Github</a> &bull; <a href="https://blackerby.github.io">Website</a>
+[wmblackerby@gmail.com](mailto:wmblackerby@gmail.com) &bull; [LinkedIn](https://www.linkedin.com/in/william-blackerby-54b54a5a/) &bull; [Github](https://github.com/blackerby) &bull; [Blog](https://blackerby.github.io)
 
 ## Education
 
 **The University of Alabama**, Tuscaloosa, AL  
 _Master of Library and Information Studies (online)_  
-_expected completion 2023_
+_expected completion Spring 2023_
 
-- Completed coursework: LS 500: Information Science and Technology, LS 501: Information and Communities, LS 535: Records Management, LS 566: Metadata and Semantic Web Fundamentals, LS 590: Linked Data
-- Coursework in progress Fall 2022: LS 506: Modern Cataloging and Classification, LS 562: Digital Libraries, LS 564: Programming for Digital Libraries, LS 570: Internship (Law Library of Congress Remote Metadata Internship)
+- Completed coursework: LS 500: Information Science and Technology, LS 501: Information and Communities, LS 535: Records Management, LS 566: Metadata and Semantic Web Fundamentals, LS 590: Linked Data, LS 506: Modern Cataloging and Classification, LS 562: Digital Libraries, LS 564: Programming for Digital Libraries, LS 570: Internship (Law Library of Congress Remote Metadata Internship)
+- Coursework in progress Spring 2023: LS 513: Professional Paths, LS 569: Information Management, LS 570: Internship (Southern Music Research Center)
 
 **The University of the South**, Sewanee, TN  
 _Bachelor of Arts, cum laude, 2009_
@@ -27,7 +28,13 @@ _Bachelor of Arts, cum laude, 2009_
 - Omicron Delta Kappa (national leadership honor society)
 - Order of the Gown (academic honor society), 2007-2009
 
-## Professional Experience
+## Experience
+
+**Law Library of Congress**
+_Remote Metadata Intern, August 2022-December 2022_
+
+- Part of a team assigned to extract text and metadata from Congressional Research Service bill digests for the 74th-76th Congresses
+- Developed several Python and shell scripts to automate aspects of the workflow
 
 **Indian Springs School**  
 _Latin and Greek Teacher, August 2016-Present_
