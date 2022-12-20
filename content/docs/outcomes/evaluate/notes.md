@@ -1,26 +1,7 @@
 ---
-author: William T. Blackerby
-bibliography:
-  - collection-development-policy-analysis.bib
-header-includes:
-  - "`\\usepackage{geometry}`{=latex}"
-  - "`\\geometry{margin=1in}`{=latex}"
-  - "`\\usepackage{setspace}`{=latex}"
-  - "`\\doublespacing`{=latex}"
+bibFile: content/docs/outcomes/evaluate/collection-bib.json
 title: "LS 562: Digital Library Collection Development Policy Analysis and Services Description"
 ---
-
-`\usepackage{geometry}`{=latex}
-
-`\geometry{margin=1in}`{=latex}
-
-`\usepackage{setspace}`{=latex}
-
-`\doublespacing`{=latex}
-
-```{=org}
-#+cite_export: biblatex apa
-```
 
 # Introduction
 
@@ -31,13 +12,13 @@ According to their
 > Collections seeks to collect, manage, preserve and disseminate digital
 > objects that support the educational mission of the College, are in
 > need of preservation, are part of the history of the College, and are
-> rare and unique. [@DigitalCollections, para. 1]
+> rare and unique. {{< cite "DigitalCollections" "para. 1" >}}
 
 In this first part of this paper I will describe and analyze the
 Williams College Standards, Policies and Procedures for Digital
 Collections the using the framework presented in Xie and Matusiak\'s
 _Discover Digital Libraries: Theory and Practice_
-[@xieDiscoverDigitalLibraries2016b]. As part of this analysis and
+{{< cite "xieDiscoverDigitalLibraries2016b" >}}. As part of this analysis and
 description, I will investigate the extent to which the Williams College
 digital library collection development policies take project costs and
 project funding into account.
@@ -49,7 +30,7 @@ services offered by Williams College Special Collections.
 
 Xie and Matusiak present the California Digital Library (CDL) collection
 development framework as an example of a digital library collection
-development policy [@xieDiscoverDigitalLibraries2016b, p. 39].
+development policy {{< cite "xieDiscoverDigitalLibraries2016b" 39 >}}.
 
 > The California Digital Library (CDL) is a \`\`co-library\'\' of the
 > University of California whose primary collection responsibility is to
@@ -63,7 +44,7 @@ development policy [@xieDiscoverDigitalLibraries2016b, p. 39].
 > - The user base
 > - The programs that are to be supported
 > - The resources available to support those users and programs
->   [@CollectionDevelopmentFramework, para. 1]
+>   {{< cite "CollectionDevelopmentFramework" "para. 1" >}}
 
 Below, I present an analysis of Williams College Standards, Policies,
 and Procedures for Digital Collections using the CDL framework.
@@ -320,3 +301,6 @@ Collections does provide a web archiving service, in effect building a
 collection that could be mined as data, but does not appear to have been
 mined yet, at least under the auspices of Williams College Special
 Collections [@WebArchiving].
+
+{{< bibliography cited >}}
+{{< hugo-cite >}}

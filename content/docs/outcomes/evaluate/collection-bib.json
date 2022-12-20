@@ -1,0 +1,1378 @@
+[
+  {
+    "URL": "https://specialcollections.williams.edu/use-policies/",
+    "abstract": "The rare books, manuscripts, and college records in Special Collections are acquired and preserved in order to support research in all areas of the Williams curriculum, and document the college’s history. You do not need to be affiliated with Williams in order to use our collections. We encourage you to contact us in advance of your visit so that we may place material on hold for you. Some material is stored at our Library Shelving Facility, requiring 48 hours advance notice to consult.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "AccessUsePolicies",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Access and Use Policies",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/use-policies/",
+    "abstract": "The rare books, manuscripts, and college records in Special Collections are acquired and preserved in order to support research in all areas of the Williams curriculum, and document the college’s history. You do not need to be affiliated with Williams in order to use our collections. We encourage you to contact us in advance of your visit so that we may place material on hold for you. Some material is stored at our Library Shelving Facility, requiring 48 hours advance notice to consult.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "AccessUsePoliciesa",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Access and Use Policies",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://blog.library.si.edu/blog/2021/08/11/assessing-file-format-risk-for-born-digital-preservation-planning/",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "id": "AssessingFileFormat",
+    "keyword": "anderson,digital libraries,information science,library science,melissa,melissa anderson,metadata,mlis",
+    "language": "en-US",
+    "title": "Assessing File Format Risk for Born-Digital Preservation Planning – Smithsonian Libraries / Unbound",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1080/01639370802183081",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "http://www.tandfonline.com/doi/abs/10.1080/01639370802183081",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          31
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bade",
+        "given": "David"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "badePerfectBibliographicRecord2008",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "109-133",
+    "title": "The Perfect Bibliographic Record: Platonic Ideal, Rhetorical Strategy or Nonsense?",
+    "title-short": "The Perfect Bibliographic Record",
+    "type": "article-journal",
+    "volume": "46"
+  },
+  {
+    "DOI": "10.1080/01639374.2021.1910603",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/01639374.2021.1910603",
+    "abstract": "Various studies have shown that low data quality in bibliographic and authority records is one of the main obstacles in data management. In order to evaluate and improve data quality in the Slovenian union bibliographic database (COBIB.SI), a pragmatic dimension-based data quality measurement and evaluation case study was carried out in 2019. The article presents the set-up and application of a methodological framework that was used for the definition and measurement of bibliographic and authority records quality in COBIB.SI. The results of the case study and the framework’s applicability in data quality measurement and evaluation, as well as in data profiling that would benefit further development of COBISS þ catalog, are also discussed.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          31
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Badovinac",
+        "given": "Branka"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "badovinacDefiningDataQuality2021",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "355-377",
+    "title": "Defining Data Quality in Bibliographic and Authority Records: A Case Study of the COBISS.SI System",
+    "title-short": "Defining Data Quality in Bibliographic and Authority Records",
+    "type": "article-journal",
+    "volume": "59"
+  },
+  {
+    "DOI": "10.1080/01639374.2014.882465",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "http://www.tandfonline.com/doi/abs/10.1080/01639374.2014.882465",
+    "abstract": "The Library of Congress (LC) and the Program for Cooperative Cataloging (PCC) interpretation of Resource Description and Access (RDA) 9.7 regarding gender when identifying persons reinforces regressive conceptions of gender identity. The rule instructs catalogers to record gender when identifying persons, and although RDA gives catalogers the flexibility to record more than two gender labels, LC limits Name Authority Cooperative Program (NACO) catalogers to a binary label: male, female, or not known. In this article, the authors challenge gender as a descriptive attribute for personal names, critique how LC is instructing NACO catalogers to record elements about gender, and make recommendations to address describing persons in LC authority records.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Billey",
+        "given": "Amber"
+      },
+      {
+        "family": "Drabinski",
+        "given": "Emily"
+      },
+      {
+        "family": "Roberto",
+        "given": "K. R."
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "billeyWhatGenderGot2014",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          19
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "412-421",
+    "title": "What’s Gender Got to Do with It? A Critique of RDA 9.7",
+    "title-short": "What’s Gender Got to Do with It?",
+    "type": "article-journal",
+    "volume": "52"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackerby",
+        "given": "William"
+      }
+    ],
+    "id": "blackerbyCoreValuesLibrarianship",
+    "language": "en-US",
+    "page": "2",
+    "title": "Core Values of Librarianship | Advocacy, Legislation & Issues",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackerby",
+        "given": "William"
+      }
+    ],
+    "id": "blackerbyFatherModernLibraries",
+    "language": "en-US",
+    "page": "5",
+    "title": "The Father of Modern Libraries Was a Serial Sexual Harasser - HISTORY",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://n2t.net/ark:/83024/d4hq3s42r",
+    "abstract": "Change the subject / a film by Sawyer Broadley, Jill Baron, Óscar Rubén Cornejo Cásares, Melissa Padilla.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "id": "ChangeSubject",
+    "language": "en-US",
+    "title": "Change the Subject",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc863047-6c5d-4751-a201-adc30026842d",
+    "abstract": "A film by Sawyer Broadley, Jill Baron, Óscar Rubén Cornejo Cásares and Melissa Padilla.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "id": "ChangeSubjecta",
+    "language": "en-US",
+    "title": "Change The Subject",
+    "type": "motion_picture"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/class-visits/",
+    "abstract": "Special Collections welcomes dozens of courses to our instruction classrooms each year, facilitating student engagement with primary sources and object-based learning. We are committed to integrating our diverse collections of manuscripts, books, college archives, and other material into the academic life of Williams College. Our staff is happy to help select material and work with faculty to structure a class. Courses usually visit us for a single, focused, hands-on session, but we have also hosted classes for several weeks (and occasionally an entire Winter Study). We can also reserve key material for students to investigate on their own schedule. Our main teaching classroom seats 24 students and is fully equipped with a computer and projector; its tables can be configured to suit larger or smaller groups. Also available is a smaller room that accommodates 8 people. We are also happy to arrange visits for K-12 school groups and other types of tours. For further information, contact us.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "ClassVisits",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Class visits",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://cdlib.org/services/collections/licensed/policy/collection-development-framework/",
+    "abstract": "Collection Development Framework",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "CollectionDevelopmentFramework",
+    "language": "en-US",
+    "publisher": "California Digital Library",
+    "title": "Collection Development Framework",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://vocabularies.coar-repositories.org/resource_types/",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "id": "ControlledVocabulariesRepositories",
+    "keyword": "fundamental concepts,session 2",
+    "title": "Controlled Vocabularies for Repositories: Resource Types",
+    "title-short": "Controlled Vocabularies for Repositories",
+    "type": "webpage"
+  },
+  {
+    "ISSN": "1361-3200",
+    "URL": "http://www.ariadne.ac.uk/issue/78/cooper/",
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Jason"
+      }
+    ],
+    "container-title": "Ariadne",
+    "id": "cooperMigratingAriadneDrupal2019",
+    "issue": "78",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Migrating Ariadne from Drupal to a Static Site",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.youtube.com/watch?v=1SroscdR7-Y",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "director": [
+      {
+        "literal": "Dartmouth Library"
+      }
+    ],
+    "id": "dartmouthlibraryChangeSubjectDocumentary2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          25
+        ]
+      ]
+    },
+    "title": "Change the Subject Documentary | Full Length |",
+    "type": "motion_picture"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/recordsmanagement/data-governance-policy/",
+    "abstract": "Data Governance Policy Introduction: The purpose of data governance is to establish a culture that ensures that institutional data is both secure and available to those who should have access to it. The policies and procedures delineated below serve as useful guidance to data stewards, users, and seekers alike. Data is a vital institutional asset that must be used legally and ethically.  Requests for data are subject to many considerations, including: Data sensitivity Compelling institutional need Reputational risk Confidentiality Privacy IRB Approval Staff resource availability College Records, as described in detail in the Policy Regarding the Management of College Records, are vital for essential business workflows of the college. Some data, as containers of records, are historical or are legally required to be maintained for certain time periods. Data that fits either of these requirements must be preserved or disposed of in accordance with the college’s records policy and the associated records retention schedule.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "DataGovernancePolicy",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Data Governance Policy",
+    "type": "webpage"
+  },
+  {
+    "id": "DevelopmentLibrarianshipUnited2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "12",
+    "title": "The Development of Librarianship in the United States",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/collection-development-policies/digital-collections/",
+    "abstract": "The digital collection services of the Williams College Special Collections seeks to collect, manage, preserve and disseminate digital objects that support the educational mission of the College, are in need of preservation, are part of the history of the College, and are rare and unique. The development of digital collections is in keeping with Special Collections’ intention to describe, arrange, digitize, and disseminate our collections and to provide \"the retention, preservation, and research use of its collections.\" Digital collection development involves Special Collections and others as appropriate. Digital Collections are composed of digital objects, whether born-digital or digitized, regardless of item type. Text, audio, still and moving images, datasets, etc. are all included. Collecting activities focus on content that can be made accessible to a wide audience. In some cases we may need to restrict access to the College’s records in order to adhere to copyright laws or restriction periods. Scope The focus of the Williams College’s Digital Collections is unique or rare content from collections owned by Special Collections or the College at large. Unique and rare content may be created through digitization of selected analog materials or through the transfer of born-digital content. Williams College Digital Collections may also include other types of open access scholarly materials (for example, data sets, data visualizations, creative works, working papers, preprints, publications, etc.) as the need arises. Items and collections encouraged: Be produced, submitted or sponsored by Williams College faculty, staff, or students. Be scholarly, research-oriented, pedagogical, or illuminate the history of the College and support the overall educational mission of Williams College. Have enduring value. Have copyright clearance if the copyright is not held by the submitter/s or Williams College. Comply with local, state and federal content and privacy laws, and with College policies and standards of conduct. Special Collections…",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ]
+    },
+    "id": "DigitalCollections",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Digital collections",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1080/01639374.2017.1358787",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/01639374.2017.1358787",
+    "abstract": "In 2014, the Ohio Library and Information Network (OhioLINK) overhauled its consortial cataloging workflows by switching to what has been termed a model of “cataloging from the center.” For more than 20 years, the Ohio academic library consortium relied on volunteers from its member institutions to catalog consortially purchased materials. Consolidating the consortial cataloging into the OhioLINK office allowed for revising the various workflows. Since 2014, the cataloging workflows for these shared electronic resources have improved efficiencies, allowing records to be provided to members in a more timely manner.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          31
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "Emily Alinder"
+      },
+      {
+        "family": "Kilkenny",
+        "given": "Erin"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "flynnCatalogingCenterImproving2017",
+    "issue": "7-8",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          17
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "630-643",
+    "title": "Cataloging from the Center: Improving e-Book Cataloging on a Consortial Level",
+    "title-short": "Cataloging from the Center",
+    "type": "article-journal",
+    "volume": "55"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrison",
+        "given": "Dee"
+      }
+    ],
+    "container-title": "journal of social history",
+    "id": "garrisonTenderTechniciansFeminization2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "30",
+    "title": "The Tender Technicians: The Feminization of Public Librarianship, 1876-1905",
+    "title-short": "The Tender Technicians",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/donations/giving-to-the-chapin-library/",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          30
+        ]
+      ]
+    },
+    "id": "GivingChapinLibrary",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Giving to the Chapin Library",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/donations/giving-to-the-college-archives/",
+    "abstract": "The College Archives relies on your support to help grow its collections and provide materials that document our shared past. College Archives was established to appraise, collect, organize, describe, preserve, and make available documentation of permanent administrative, legal, fiscal and historical value. Through the generosity and support of individuals over the years, College Archives has continued to acquire materials that contribute to the richness and diversity of our collections and community. We collect in areas that: support the College’s curriculum and the research interests of its students and faculty anticipate future research needs complement other regional special collections repositories Through donation and purchase, we acquire materials that support the history of Williams College, including: personal and professional papers from alumni, faculty, staff, students, and friends of the College rare books manuscripts research-related material artifacts For more information, please review our collection development policy. Current gifts and endowed funds include: The Rudolph Williamsiana Fund, established in honor of Professor Fred Rudolph on the occasion of his retirement The Whiteman Collection Fund, to support the Paul Whiteman Collection The Plater-Schmidt Fund, to ensure the continued preservation and availability of the College’s historical and cultural property The John T. Gibson ’35 Williamsiana Fund, to support Special Collections Our staff is here to help guide those interested in donating and entrusting their materials to our care in our safe and secure surroundings. Contact us for further information and we thank you for your generous support!",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          30
+        ]
+      ]
+    },
+    "id": "GivingCollegeArchives",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Giving to the College Archives",
+    "type": "webpage"
+  },
+  {
+    "ISSN": "1940-5758",
+    "URL": "https://journal.code4lib.org/articles/13671",
+    "abstract": "Machine learning algorithms and technologies are becoming a regular part of daily life – including life in the libraries. Through this article, I hope to:, * To introduce the reader to the basic terminology and concepts of machine learning * To make the reader consider the potential ethical and privacy issues that libraries will face as machine learning permeates society * To demonstrate hypothetical possibilities for applying machine learning to circulation and collections data using TensorFlow/Keras and open datasets, Through these goals, it is my hope that this article will inspire a larger, ongoing conversation about the utility and dangers of machine learning in the library (and concurrently society as a whole). In addition, the tripartite division of the article is meant to make the material accessible to readers with different levels of technical proficiency. In approaching the first two goals, the discussion is focused on high level terms and concepts, and it includes specific public cases of machine learning (ab)use that are of broad interest. For the third goal, the discussion becomes more technical and is geared towards those interested in exploring practical machine learning applications in the library.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Harper",
+        "given": "Charlie"
+      }
+    ],
+    "container-title": "The Code4Lib Journal",
+    "id": "harperMachineLearningLibrary2018",
+    "issue": "41",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          9
+        ]
+      ]
+    },
+    "title": "Machine Learning and the Library or: How I Learned to Stop Worrying and Love My Robot Overlords",
+    "title-short": "Machine Learning and the Library or",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "Michael H"
+      }
+    ],
+    "id": "harrisPURPOSEAMERICANPUBLIC",
+    "language": "en-US",
+    "page": "89",
+    "title": "THE PURPOSE OF THE AMERICAN PUBLIC LIBRARY IN .HISTORICAL PERSPECTIVE: A REVISIONIST INTERPRETATION",
+    "title-short": "THE PURPOSE OF THE AMERICAN PUBLIC LIBRARY IN .HISTORICAL PERSPECTIVE",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.isko.org/cyclo/subject",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hjorland",
+        "given": "Birger"
+      }
+    ],
+    "genre": "Text",
+    "id": "hjorlandSubjectDocuments2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "fundamental concepts,session 2",
+    "title": "Subject (of documents)",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1080/01639374.2020.1850589",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/01639374.2020.1850589",
+    "abstract": "The bibliographic work has assumed a great deal of importance in modern cataloging. But the concept of the work has existed for over a century, and even some of the earliest catalog codes differentiate between the intellectual work and its instances. This article will delve into the history and theory of the work, providing a basic overview of the concept as well as a summary of the myriad uses of the work throughout the history of cataloging. In addition to monographs, this paper will look at the work as applied to music, moving images, serials, and aggregates.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Holden",
+        "given": "Chris"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "holdenBibliographicWorkHistory2021",
+    "issue": "2-3",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          3
+        ]
+      ]
+    },
+    "keyword": "fundamental concepts,session 2",
+    "language": "en-US",
+    "page": "77-96",
+    "title": "The Bibliographic Work: History, Theory, and Practice",
+    "title-short": "The Bibliographic Work",
+    "type": "article-journal",
+    "volume": "59"
+  },
+  {
+    "DOI": "10.1007/978-3-030-85085-2",
+    "ISBN": "978-3-030-85084-5 978-3-030-85085-2",
+    "URL": "https://link.springer.com/10.1007/978-3-030-85085-2",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lamba",
+        "given": "Manika"
+      },
+      {
+        "family": "Madhusudhan",
+        "given": "Margam"
+      }
+    ],
+    "id": "lambaTextMiningInformation2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "title": "Text Mining for Information Professionals: An Uncharted Territory",
+    "title-short": "Text Mining for Information Professionals",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1086/614126",
+    "ISSN": "0024-2519, 1549-652X",
+    "URL": "https://www.journals.uchicago.edu/doi/10.1086/614126",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Lowell"
+      }
+    ],
+    "container-title": "The Library Quarterly",
+    "container-title-short": "The Library Quarterly",
+    "id": "martinAmericanPublicLibrary1937",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1937,
+          10
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "546-563",
+    "title": "The American Public Library as a Social Institution",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.1081/E-ELIS4-120053401",
+    "ISBN": "978-1-4665-5260-9",
+    "URL": "https://www.taylorfrancis.com/books/9781000031546/chapters/10.1081/E-ELIS4-120053401",
+    "abstract": "Library and information science (LIS) is an interdisciplinary domain concerned with the creation, management, and uses of information in all its forms. Emerging from parallel developments in libraries and in information science, the field now encompasses diverse activities that are part of the information transfer cycle—such as the creation, instantiation, communication, acquisition, organization, management, regulation, preservation, distribution, and use of information. This entry traces the development of LIS from its beginnings in thinking about libraries and the growth of library science as a field. It then explores the nature of information science and the interweaving paths of the two—which eventually encountered the field of communications. The entry concludes with current trends and emerging areas in the field that present both challenges and opportunities in terms of defining LIS as a vast, interdisciplinary area.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          15
+        ]
+      ]
+    },
+    "container-title": "Encyclopedia of Library and Information Science, Fourth Edition",
+    "edition": "0",
+    "editor": [
+      {
+        "family": "McDonald",
+        "given": "John D."
+      },
+      {
+        "family": "Levine-Clark",
+        "given": "Michael"
+      }
+    ],
+    "id": "mcdonaldLibraryInformationScience2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          15
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "2768-2774",
+    "publisher": "CRC Press",
+    "title": "Library and Information Science",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1081/E-ELIS4-120050533",
+    "ISBN": "978-1-4665-5260-9",
+    "URL": "https://www.taylorfrancis.com/books/9781000031546/chapters/10.1081/E-ELIS4-120050533",
+    "abstract": "The purpose of name authority control is to facilitate searching and browsing by 1) ensuring retrieval of all the works of a person, personal identity such as a pseudonym, family name, or organization where they may be published under different name versions over time and in different places; 2) enabling other works by the same identity to be retrieved from any one work; 3) by eliminating works of other identities with the same name; and 4) by concise name indexes that ensure efficient browsing. Authority records may include name variants, and these are distinguished from related names of other identities of the same person. Records also contain differentiating information and, most importantly, identifiers that are the key elements facilitating linking. Differentiating information differs for personal and organization names. The creation of authority records is a labor-intensive process, and the trend is toward creating locally and sharing internationally. Consolidated sources are important for facilitating reuse and as key resources in linked data. Input data are accepted from a variety of sources, including biographical sources, encyclopedias, institution records, and crowdsourced systems. Different models and encoding systems are detailed.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "container-title": "Encyclopedia of Library and Information Science, Fourth Edition",
+    "edition": "0",
+    "editor": [
+      {
+        "family": "McDonald",
+        "given": "John D."
+      },
+      {
+        "family": "Levine-Clark",
+        "given": "Michael"
+      }
+    ],
+    "id": "mcdonaldNameAuthorityControl2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          15
+        ]
+      ]
+    },
+    "keyword": "fundamental concepts,session 2",
+    "language": "en-US",
+    "page": "3288-3297",
+    "publisher": "CRC Press",
+    "title": "Name Authority Control",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1086/601593",
+    "ISSN": "0024-2519, 1549-652X",
+    "URL": "https://www.journals.uchicago.edu/doi/10.1086/601593",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "McMullen",
+        "given": "Haynes"
+      }
+    ],
+    "container-title": "The Library Quarterly",
+    "container-title-short": "The Library Quarterly",
+    "id": "mcmullenVerySlowDecline1985",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1985,
+          4
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "207-225",
+    "title": "The Very Slow Decline of the American Social Library",
+    "type": "article-journal",
+    "volume": "55"
+  },
+  {
+    "URL": "https://miriamsweeney.net/2012/06/20/readforgradschool/",
+    "abstract": "In graduate school the work load increases and students will find that they are expected to master two to three times the material that they were used to as an undergraduate.  This can be intimidat…",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Miriam"
+      }
+    ],
+    "id": "miriamHowReadGrad2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          20
+        ]
+      ]
+    },
+    "keyword": "grad school,miriam,miriam sweeney,reading,sweeney",
+    "language": "en-US",
+    "publisher": "Miriam E. Sweeney",
+    "title": "How to Read for Grad School",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.5860/crln.79.6.296",
+    "ISSN": "2150-6698, 0099-0086",
+    "URL": "https://crln.acrl.org/index.php/crlnews/article/view/17003",
+    "abstract": "In recent years a growing amount of interest has been dedicated to collections as data. A collections as data paradigm seeks to foster an expanded set of research, pedagogical, and artistic potential predicated on the computational use of cultural heritage collections. Collections as data raises the question of what it might mean to treat digitized and born digital collections as data rather than simple surrogates of physical objects or static representations of digital experience.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Padilla",
+        "given": "Thomas G."
+      }
+    ],
+    "container-title": "College & Research Libraries News",
+    "container-title-short": "C&RL News",
+    "id": "padillaCollectionsDataImplications2018",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          5
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "296",
+    "title": "Collections as data: Implications for enclosure",
+    "title-short": "Collections as data",
+    "type": "article-journal",
+    "volume": "79"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/recordsmanagement/",
+    "abstract": "We’ve all recognized by now that technology has not decreased the amount of information we produce or manage. With the proliferation of documents, images, datasets, etc.- in both hardcopy and electronic formats- questions about managing, accessing, preserving, or destroying information are even more important to answer. To help us tackle these issues, a Records Management Program developed. The Program comprises a nested set of services that helps members of the Williams community deal with the records they produce and receive. It ensures important documents are preserved, and information that has outlived its usefulness is destroyed in a timely fashion. The Records Management program assists offices, departments, and individuals in managing records to meet the administrative, financial, legal, and historical needs of Williams by: Developing and training staff on policies and procedures to comply with College practices and state and federal law Establishing records retention schedules with offices, departments, groups, and committees Guiding offices with timed records destruction and confidential disposition Managing records coming and going from the Library Shelving Facility Aiding with personal archiving Learn more:",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "RecordsManagementProgram",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Records Management Program",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/research-appointments/",
+    "abstract": "Librarians and archivists are available for one-on-one appointments to assist with your research project. We can help you: Find rare books, manuscripts, and archives that relate to your research topic Build skills to interpret rare books and primary sources Determine how to use and cite rare books and primary sources Each member of our staff has expertise in different areas.  Contact us about your research project and we’ll match you with someone who can help.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "ResearchAppointments",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Research appointments",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://collectionsasdata.github.io/statement/",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          30
+        ]
+      ]
+    },
+    "id": "SantaBarbaraStatement",
+    "publisher": "Always Already Computational - Collections as Data",
+    "title": "The Santa Barbara Statement on Collections as Data",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1080/01639370903112013",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "http://www.tandfonline.com/doi/abs/10.1080/01639370903112013",
+    "abstract": "We have not properly studied the uses to which catalogs are put by their users, nor have we attempted until recently to consider empirical evidence in the construction of cataloging rules. The result is an oddly rationalized sort of pragmatism inherent in generations of rules for resource description. This lack of theoretical commitment in resource description has ethical implications for all of information organization because it leads to poorly served users of catalogs. One particularly egregious ethical issue is bibliocentrism. Beghtol challenges us to engage in applications research to affirm a theoretical basis, contrasting cultural warrant with ethical warrant. The importance of cultural warrant in the ethics of knowledge representation follows closely on Hjørland’s emphasis on activitytheoretic and domain-specificity. The present study asks whether schemas for resource description restrict access by constraining objectivity. The objective is to discover empirically, via case-study method, some of the ways in which standards for resource description might present threats to information ethics. The analysis of a set of specific cases uses bibliographic records analyzed using the aforementioned lenses: bibliocentrism, activity theory and use, cultural warrant, and exploitative power. Results show a paradigm of description that has little reference to potential uses of resources, raising a specter of unfulfilled expectations. We see the ethical limits of just this one aspect of resource description. We look toward design of an ethical, culturally focused, information retrieval paradigm.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Smiraglia",
+        "given": "Richard P."
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "smiragliaBibliocentrismCulturalWarrant2009",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          9
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "671-686",
+    "title": "Bibliocentrism, Cultural Warrant, and the Ethics of Resource Description: A Case Study",
+    "title-short": "Bibliocentrism, Cultural Warrant, and the Ethics of Resource Description",
+    "type": "article-journal",
+    "volume": "47"
+  },
+  {
+    "DOI": "10.29242/rli.279.6",
+    "ISSN": "19474911",
+    "URL": "http://publications.arl.org/2ds1pl/",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Kevin L."
+      }
+    ],
+    "container-title": "Research Library Issues",
+    "container-title-short": "RLI",
+    "id": "smithCopyrightRiskManagement2012",
+    "issue": "279",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          1
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "17-23",
+    "title": "Copyright Risk Management: Principles and Strategies for Large-Scale Digitization Projects in Special Collections",
+    "title-short": "Copyright Risk Management",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1080/01639374.2017.1350774",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/01639374.2017.1350774",
+    "abstract": "Definitions of “quality cataloging” may differ from cataloger to cataloger and from institution to institution. If an objective definition of quality is elusive, how can an institution assess the quality of cataloging work? This article discusses definitions of quality cataloging in the literature and different ways it has been evaluated and measured. Academic library catalogers’ perceptions of quality cataloging will also be explored, as well as how these perceptions are formed. The article concludes by suggesting ways cataloging departments can approach the creation and evaluation of quality cataloging in an ethical manner.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          31
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Snow",
+        "given": "Karen"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "snowDefiningAssessingRethinking2017",
+    "issue": "7-8",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          17
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "438-455",
+    "title": "Defining, Assessing, and Rethinking Quality Cataloging",
+    "type": "article-journal",
+    "volume": "55"
+  },
+  {
+    "DOI": "10.1080/01639374.2020.1795767",
+    "ISSN": "0163-9374, 1544-4554",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/01639374.2020.1795767",
+    "abstract": "Catalogers often need to make ethical decisions about their daily work. What is the starting point for defining cataloging ethics and how do practitioners define the concept? In this article, the authors explore definitions of ethics and cataloging ethics in the literature, and subsequently analyze responses to a question asking respondents to define cataloging ethics. Set against the existing backdrop of the American Library Association “Code of Ethics,” the authors propose that shared values create a framework for discussing cataloging ethics, rather than a single articulated definition.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Snow",
+        "given": "Karen"
+      },
+      {
+        "family": "Shoemaker",
+        "given": "Beth"
+      }
+    ],
+    "container-title": "Cataloging & Classification Quarterly",
+    "container-title-short": "Cataloging & Classification Quarterly",
+    "id": "snowDefiningCatalogingEthics2020",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          17
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "533-546",
+    "title": "Defining Cataloging Ethics: Practitioner Perspectives",
+    "title-short": "Defining Cataloging Ethics",
+    "type": "article-journal",
+    "volume": "58"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/collection-development-policies/digital-collections/digitalstandards/",
+    "abstract": "Williams College Archives and Special Collections adheres to national and international community-based standards and best practices in all its work. A Digital Collection Development Policy summarizes our digital program effort. Our overall operations: Metadata: Williams College Archives MODS Guidelines Metadata Object Description Schema (MODS) Visual Resources Association (VRA) Core Oxygen XML Editor Text Wrangler Digitization: Federal Agencies Guidelines Initiative (FADGI) Technical Guidelines for Digitizing Cultural Heritage Materials Equipment: Epson Expression 10000XL Flatbed Scanners (2) Nikon D60 with SLR lens (1) Smith-Victor K82 2-Light 500 Watt Ultra Cool Portable Kit (120V AC) (2) Magnetic Board (1) Software: SilverFast Epson IT8 (flatbeds) Nikon Transfer Utility (digital camera) Adobe Photoshop Adobe Bridge Adobe Lightroom Handbrake Digital Asset Management System: Unbound is an Islandora system based on Fedora and Solr that uses a number of additional tools to support application messaging, the web interface, and linked open data. Information Technology and Libraries are developing a wiki documenting all aspects of the system.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ]
+    },
+    "id": "StandardsPoliciesProcedures",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Standards, Policies and Procedures for Digital Collections",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://id.loc.gov/authorities/subjects/sh85003545.html",
+    "abstract": "The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include LCSH, BIBFRAME, LC Name Authorities, LC Classification, MARC codes, PREMIS vocabularies, ISO language codes, and more.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "dropping-particle": "of",
+        "family": "Congress",
+        "given": "The Library"
+      }
+    ],
+    "genre": "webpage",
+    "id": "thelibraryofcongressNoncitizensLCLinked",
+    "language": "en-US",
+    "title": "Noncitizens - LC Linked Data Service: Authorities and Vocabularies | Library of Congress, from LC Linked Data Service: Authorities and Vocabularies (Library of Congress)",
+    "title-short": "Noncitizens - LC Linked Data Service",
+    "type": "webpage"
+  },
+  {
+    "URL": "https://unbound.williams.edu/",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          5
+        ]
+      ]
+    },
+    "id": "UnboundWilliamsDigital",
+    "title": "Unbound | Williams Digital Collections",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.5445/IR/1000084458",
+    "URL": "https://publikationen.bibliothek.kit.edu/1000084458",
+    "abstract": "Um Inhalte im World Wide Web ausfindig zu machen, sind Suchmaschienen nicht mehr wegzudenken. Semantic Web und Linked Data Technologien ermöglichen ein detaillierteres und eindeutiges Strukturieren der Inhalte und erlauben vollkommen neue Herangehensweisen an die Lösung von Information Retrieval Problemen. Diese Arbeit befasst sich mit den Möglichkeiten, wie Information Retrieval Anwendungen von der Einbeziehung von Linked Data profitieren können. Neue Methoden der computer-gestützten semantischen Textanalyse, semantischen Suche, Informationspriorisierung und -visualisierung werden vorgestellt und umfassend evaluiert. Dabei werden Linked Data Ressourcen und ihre Beziehungen in die Verfahren integriert, um eine Steigerung der Effektivität der Verfahren bzw. ihrer Benutzerfreundlichkeit zu erzielen. Zunächst wird eine Einführung in die Grundlagen des Information Retrieval und Linked Data gegeben. Anschließend werden neue manuelle und automatisierte Verfahren zum semantischen Annotieren von Dokumenten durch deren Verknüpfung mit Linked Data Ressourcen vorgestellt (Entity Linking). Eine umfassende Evaluation der Verfahren wird durchgeführt und das zu Grunde liegende Evaluationssystem umfangreich verbessert. Aufbauend auf den Annotationsverfahren werden zwei neue Retrievalmodelle zur semantischen Suche vorgestellt und evaluiert. Die Verfahren basieren auf dem generalisierten Vektorraummodell und beziehen die semantische Ähnlichkeit anhand von taxonomie-basierten Beziehungen der Linked Data Ressourcen in Dokumenten und Suchanfragen in die Berechnung der Suchergebnisrangfolge ein. Mit dem Ziel die Berechnung von semantischer Ähnlichkeit weiter zu verfeinern, wird ein Verfahren zur Priorisierung von Linked Data Ressourcen vorgestellt und evaluiert. Darauf aufbauend werden Visualisierungstechniken aufgezeigt mit dem Ziel, die Explorierbarkeit und Navigierbarkeit innerhalb eines semantisch annotierten Dokumentenkorpus zu verbessern. Hierfür werden zwei Anwendungen präsentiert. Zum einen eine Linked Data basierte explorative Erweiterung als Ergänzung zu einer traditionellen schlüsselwort-basierten Suchmaschine, zum anderen ein Linked Data basiertes Empfehlungssystem.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Waitelonis",
+        "given": "Jörg"
+      }
+    ],
+    "id": "waitelonisLinkedDataSupported2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "Information Retrieval,Linked Data,Semantic Web",
+    "language": "de-DE",
+    "publisher": "Karlsruhe",
+    "title": "Linked Data Supported Information Retrieval",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://specialcollections.williams.edu/recordsmanagement/web-archiving/",
+    "abstract": "The Williams College Web Archive collects: Web-based projects created by faculty, staff, and students Websites, blogs, and social media by members of the Williams community Student organization websites Web-based materials donated to Special Collections Websites that are records of the College Students, faculty, staff, and alumni are encouraged to submit URLs for websites, blogs, and social media presences to Special Collections for inclusion in the archive. For more information about Special Collections’ web archiving, please contact us. Please see our guidelines on how to make sure your website is preservable. FAQ Questions? Contact us. See also:",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "id": "WebArchiving",
+    "language": "en-US",
+    "publisher": "Special Collections",
+    "title": "Web Archiving",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.25333/ZBH0-A044",
+    "URL": "https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Weber",
+        "given": "Chela"
+      },
+      {
+        "family": "Conway",
+        "given": "Martha"
+      },
+      {
+        "family": "Martin",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Stevens",
+        "given": "Gioia"
+      },
+      {
+        "family": "Kamsler",
+        "given": "Brigette"
+      }
+    ],
+    "id": "weberTotalCostStewardship2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "OCLC Research",
+    "title": "Total Cost of Stewardship: Responsible Collection Building in Archives and Special Collections",
+    "title-short": "Total Cost of Stewardship",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://wikibase.slis.ua.edu/wiki/Main_Page",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          14
+        ]
+      ]
+    },
+    "id": "WikibaseSlisUa",
+    "keyword": "Linked Data",
+    "title": "Wikibase.slis.ua.edu",
+    "type": "webpage"
+  },
+  {
+    "ISSN": "1940-5758",
+    "URL": "https://journal.code4lib.org/articles/14834",
+    "abstract": "The Black Book Interactive Project at the University of Kansas (KU) is developing an expanded corpus of novels by African American authors, with an emphasis on lesser known writers and a goal of expanding research in this field. Using a custom metadata schema with an emphasis on race-related elements, each novel is analyzed for a variety of elements such as literary style, targeted content analysis, historical context, and other areas. Librarians at KU have worked to develop a variety of computational text analysis processes designed to assist with specific aspects of this metadata collection, including text mining and natural language processing, automated subject extraction based on word sense disambiguation, harvesting data from Wikidata, and other actions.",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wolfe",
+        "given": "Erin"
+      }
+    ],
+    "container-title": "The Code4Lib Journal",
+    "id": "wolfeNaturalLanguageProcessing2019",
+    "issue": "46",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          5
+        ]
+      ]
+    },
+    "title": "Natural Language Processing in the Humanities: A Case Study in Automated Metadata Enhancement",
+    "title-short": "Natural Language Processing in the Humanities",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1016/B978-0-12-417112-1.00003-X",
+    "ISBN": "978-0-12-417112-1",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/B978012417112100003X",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Xie",
+        "given": "Iris"
+      },
+      {
+        "family": "Matusiak",
+        "given": "Krystyna K."
+      }
+    ],
+    "container-title": "Discover Digital Libraries",
+    "id": "xieDigitizationTextStill2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "59-93",
+    "publisher": "Elsevier",
+    "title": "Digitization of text and still images",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "978-0-12-417112-1",
+    "author": [
+      {
+        "family": "Xie",
+        "given": "Iris"
+      },
+      {
+        "family": "Matusiak",
+        "given": "Krystyna K."
+      }
+    ],
+    "id": "xieDiscoverDigitalLibraries2016b",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en-US",
+    "number-of-pages": "364",
+    "publisher": "Elsevier",
+    "publisher-place": "Amsterdam Boston Heidelberg",
+    "title": "Discover digital libraries: Theory and practice",
+    "title-short": "Discover digital libraries",
+    "type": "book"
+  },
+  {
+    "genre": "incollection",
+    "id": "zotero-43",
+    "type": "chapter"
+  }
+]
