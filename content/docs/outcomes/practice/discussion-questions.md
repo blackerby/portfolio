@@ -1,26 +1,9 @@
 ---
-author: William T. Blackerby
-bibliography:
-  - ethical-cataloging.bib
-header-includes:
-  - "`\\usepackage{geometry}`{=latex}"
-  - "`\\geometry{margin=1in}`{=latex}"
-  - "`\\usepackage{setspace}`{=latex}"
-  - "`\\doublespacing`{=latex}"
 title: "LS 506: Ethical Cataloging Discussion Questions"
+bibFile: content/docs/outcomes/practice/ethical-cataloging-bib.json
 ---
 
-`\usepackage{geometry}`{=latex}
-
-`\geometry{margin=1in}`{=latex}
-
-`\usepackage{setspace}`{=latex}
-
-`\doublespacing`{=latex}
-
-```{=org}
-#+cite_export: biblatex apa
-```
+{{< hugo-cite >}}
 
 ## Describe ethical concerns that occur in cataloging work.
 
@@ -28,7 +11,7 @@ In their exploration of what ethical cataloging is, Snow and Shoemaker
 (2020) note Intner\'s framing of cataloging ethics \`\`largely in terms
 of of institutional responsibilities: the library\'s ability or
 inability to meet its users\' needs\'\'
-[@snowDefiningCatalogingEthics2020, p. 535]. In other words, ethical
+{{< cite "SnowDefiningCatalogingEthics2020" 535 >}}. In other words, ethical
 cataloging is about how the library catalog affects the people who use
 it.
 
@@ -137,7 +120,7 @@ to a questionnaire they shared with catalogers:
 > - Inclusive metadata and actions
 > - Accurate representation of resources and agents
 > - Adhering to standards while interrogating their usefulness
->   [@snowDefiningCatalogingEthics2020, p. 543]
+>   {{< cite "SnowDefiningCatalogingEthics2020" 543 >}}
 
 Most important, though, is to listen to feedback shared by library
 patrons, stakeholders, and other constituents, especially those from
@@ -163,3 +146,5 @@ Quarterly, 52(4), 412-421.
 Broadley, S., Baron, J., Cornejo Cásares, Ó.S., and Padilla, M. (2019).
 Change the subject \[Video\]. Dartmouth Digital Collections.
 <https://n2t.net/ark:/83024/d4hq3s42r>
+
+{{< bibliography >}}
