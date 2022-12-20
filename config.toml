@@ -2,4 +2,3 @@ baseURL = 'https://blackerby.github.io/portfolio'
 languageCode = 'en-us'
 title = 'William Blackerby: MLIS Portfolio'
 theme = 'hugo-book'
-enableGitInfo = true
