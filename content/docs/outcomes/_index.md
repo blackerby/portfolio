@@ -1,5 +1,5 @@
 ---
-title: Program Learning Outcomes and Work Samples
+title: Outcomes
 bookCollapseSection: true
 ---
 
