@@ -1,5 +1,5 @@
 ---
-title: Using Evidence to Inform Library and Information Practices
+title: Use
 ---
 
 # Using evidence to inform library and information practices

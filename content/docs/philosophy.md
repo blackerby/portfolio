@@ -1,5 +1,5 @@
 ---
-title: Philosophy of LIS Practice
+title: Philosophy
 bookToc: false
 ---
 
