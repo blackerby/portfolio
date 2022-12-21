@@ -1,5 +1,6 @@
 ---
 title: Use
+bookToc: false
 ---
 
 # Using evidence to inform library and information practices

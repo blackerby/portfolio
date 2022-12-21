@@ -49,3 +49,5 @@ American Society for Information Science, 63 (4), 716-723.
 Robertson, Derek. https://www.politico.com/newsletters/digital-future-daily/2022/04/29/cryptos-strange-new-respectability-00029062. Accessed May 1, 2022.
 
 Zobel, J., (2017). What we talk about when we talk about information retrieval. ACM SIGIR Forum, 51 (3), 18-26.
+
+{{< hugo-cite >}}
