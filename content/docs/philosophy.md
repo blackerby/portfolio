@@ -3,7 +3,11 @@ title: Philosophy
 bookToc: false
 ---
 
-# A Reflective Essay on Information, Technology, Humanity, and Purpose
+# Information, Technology, Humanity, and Purpose
+
+{{< hint info >}}
+**Note**: This was originally submitted as my final essay for LS 500: Information Science and Technology.
+{{< /hint >}}
 
 I distinctly remember what first piqued my interest in computing and technology. I was in sixth or seventh grade, spending the night at a friend's house, and before settling in for a late night and early morning of action movie after action movie followed by far too little sleep, we sat at the desktop computer in the basement guestroom. Instead of playing through one of his favorite science fiction flight simulator games, my friend showed me how some text surrounded by angle brackets he typed out in NotePad could turn into a website anyone anywhere in the world could visit thanks to AngelFire. HTML: HyperText Markup Language. _Language._ I knew language. I loved language! French and English were my two favorite classes in school at the time. All it took to get a computer to do what you wanted was to learn its language? I could do that. I was hooked.
 
