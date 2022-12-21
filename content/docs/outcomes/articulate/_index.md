@@ -1,5 +1,6 @@
 ---
 title: Articulate
+bookToc: false
 ---
 
 # Critically articulating the philosophy, principles, and ethics of library and information science
