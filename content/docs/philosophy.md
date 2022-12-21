@@ -1,12 +1,14 @@
 ---
 title: Philosophy
 bookToc: false
+bibFile: content/docs/philosophy.json
 ---
 
 # Information, Technology, Humanity, and Purpose
 
 {{< hint info >}}
-**Note**: This was originally submitted as my final essay for LS 500: Information Science and Technology.
+&#x1F449; This was originally submitted as my final essay for LS 500: Information Science and Technology. It has been lightly edited for publication on the web.  
+&#x1F449; You can download the original version [here](../ls500final.pdf)
 {{< /hint >}}
 
 I distinctly remember what first piqued my interest in computing and technology. I was in sixth or seventh grade, spending the night at a friend's house, and before settling in for a late night and early morning of action movie after action movie followed by far too little sleep, we sat at the desktop computer in the basement guestroom. Instead of playing through one of his favorite science fiction flight simulator games, my friend showed me how some text surrounded by angle brackets he typed out in NotePad could turn into a website anyone anywhere in the world could visit thanks to AngelFire. HTML: HyperText Markup Language. _Language._ I knew language. I loved language! French and English were my two favorite classes in school at the time. All it took to get a computer to do what you wanted was to learn its language? I could do that. I was hooked.
@@ -21,7 +23,7 @@ My understanding of information is becoming grounded in Buckland's conceptualiza
 
 In other words: the answer to the question "What is the purpose of all of this?" is understanding and collaborative meaning construction.
 
-As an aspiring information professional and technologist, I hope to carry the message of Zobel's work on information retrieval (IR) into my practice. What so impressed me about the paper of his that we read this semester is that purpose is at the center of his conceptualization of IR. I found the following definition of IR from his paper inspiring: "the study of techniques for supporting human cognition with documents, using material that is sourced from large document collections" (25).
+As an aspiring information professional and technologist, I hope to carry the message of Zobel's work on information retrieval (IR) into my practice. What so impressed me about the paper of his that we read in LS 500: Information Science and Technology is that purpose is at the center of his conceptualization of IR. I found the following definition of IR from his paper inspiring: "the study of techniques for supporting human cognition with documents, using material that is sourced from large document collections" (25).
 
 "Supporting human cognition." Not replacing, but supporting. In other words, being mindful of who and what this work is for. Does artificial intelligence have a role to play in any of this? If so, what do we mean by artificial intelligence, and what is that role?
 
@@ -37,10 +39,9 @@ The latter, and much less extreme vision, is illustrated on the about page of Ti
 
 This is the vision we should strive for, the vision that is in line with Ma's and Zobel's views, and the vision that I would want to be a part of. Information is for people, all people, and technology that does not recognize and advance that point of view can be harmful and dangerous. I am grateful to be taking my first steps into LIS, a field which, though technologically informed, places people's needs first.
 
-References:
+## References
 
-Buckland, M. K. (1991). Information as thing. Journal of the American Society for Information Science, 42 (5), 351-360.
-
+Buckland, M. K. (1991). Information as thing. Journal of the American Society for Information Science, 42 (5), 351-360.  
 DAIR. "About." https://www.dair-institute.org/about. Accessed May 1, 2022.
 
 Grève, Sebastian S. "AI’s first philosopher." https://aeon.co/essays/why-we-should-remember-alan-turing-as-a-philosopher. Accessed May 1, 2022.
@@ -53,5 +54,3 @@ American Society for Information Science, 63 (4), 716-723.
 Robertson, Derek. https://www.politico.com/newsletters/digital-future-daily/2022/04/29/cryptos-strange-new-respectability-00029062. Accessed May 1, 2022.
 
 Zobel, J., (2017). What we talk about when we talk about information retrieval. ACM SIGIR Forum, 51 (3), 18-26.
-
-{{< hugo-cite >}}

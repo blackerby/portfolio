@@ -1,4 +1,4 @@
 baseURL = 'https://blackerby.github.io/portfolio'
 languageCode = 'en-us'
 title = 'Blackerby Portfolio'
-theme = ['hugo-book', 'hugo-cite']
+theme = ['hugo-book']
