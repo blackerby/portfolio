@@ -16,5 +16,5 @@ Use the menu on the left-hand side of the page to read my [Philosophy]({{< ref "
 
 Queries entered in the search bar at the top of the left-hand menu will return the names of documents containing your search term. Many of the documents on this site include a table of contents on the right-hand side of the page.
 
-This site was built using the the [Hugo](https://gohugo.io/) static site generator with the [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) and [Hugo Cite](https://labs.loupbrun.ca/hugo-cite/) for citations. It was deployed using [GitHub Pages](https://pages.github.com/).
+This site was built using the [Hugo](https://gohugo.io/) static site generator with the [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) and [Hugo Cite](https://labs.loupbrun.ca/hugo-cite/) for citations in my [Philosophy]({{< ref "/philosophy" >}}) of LIS Practice. It was deployed using [GitHub Pages](https://pages.github.com/).
 {{< /columns >}}
